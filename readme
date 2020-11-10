@@ -1,1 +1,9 @@
 
+1.RGB to HSV
+2.affine_transformation and bicubic_interpolation
+3.Histogram Mapping/Histogram Transformation/Histogram Equalisation/Implement a hipster filter
+4.Qualify sharpness and noise and SSIM JPEG Compression
+5.Filter and Sharpening
+6.Discrete Fourier Transformation and Spectrogram
+7.2D DFT and High and Low Pass filter with the 2D fourier transformation
+8.2D DCT and High and Low Pass filter with 2D DCT 
